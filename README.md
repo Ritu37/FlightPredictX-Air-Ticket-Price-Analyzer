@@ -1,4 +1,4 @@
-# Air Flight Price Prediction
+# FlightPredictX – Air Ticket Price Analyzer
 
 This project focuses on predicting flight ticket prices using Machine Learning techniques. A real-world airline dataset was processed, cleaned, analyzed, and modeled using advanced regression algorithms. The goal is to understand the factors influencing airfare and build an accurate price prediction system.
 
